@@ -577,6 +577,10 @@ body{
     height: 15px;
     outline: 1px solid #666;;
     width: 15px;
+    cursor: pointer;
+}
+.contry-flag:hover{
+    outline: 1px solid #0770cf;
 }
 .contries-1{
     display: flex;
